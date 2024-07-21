@@ -1,0 +1,50 @@
+/* Container Styles */
+.student-add-container {
+    margin: 20px auto;
+    width: 50%;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  /* Title Styles */
+  .title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Form Styles */
+  .student-add-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .student-add-form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .student-add-form input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .student-add-form button {
+    padding: 10px;
+    background-color: #5cb85c;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .student-add-form button:hover {
+    background-color: #4cae4c;
+  }
+  

@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "rollNo": "23mca001",
+        "name": "Abisheck kumar",
+        "mobile": "23232323"
+      },
+      {
+        "id": 2,
+        "rollNo": "23mca002",
+        "name": "Abisheck venkatesh",
+        "mobile": "28723782372"
+      },
+      {
+        "id": 3,
+        "rollNo": "23mca003",
+        "name": "Nitheesh",
+        "mobile": "343434223"
+      }
+    
+    ]
+  }
