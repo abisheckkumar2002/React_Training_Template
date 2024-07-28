@@ -7,17 +7,7 @@ import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 
-// function Hello(){
-//   return <h1>hi this compnents</h1>
-// }
 
-// function MCA(){
-//   return <p>this is the MCA DEPARTMENT</p>
-// }
-
-// function AIDS(){
-//   return <p>AIDS DEPARTMENT</p>
-// }
 root.render(
   <React.StrictMode>
     <App />
